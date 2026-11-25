@@ -1,0 +1,43 @@
+<resources>
+    <color name="surface_canvas">#F8FAFC</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_subtle">#F1F5F9</color>
+    <color name="surface_tinted">#EAEDFF</color>
+    <color name="outline_border">#E2E8F0</color>
+    <color name="outline_strong">#CBD5E1</color>
+
+    <color name="brand_primary">#1E3A8A</color>
+    <color name="brand_primary_dark">#00236F</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_primary_container">#DCE1FF</color>
+    <color name="brand_on_primary_container">#00164E</color>
+
+    <color name="brand_secondary">#505F76</color>
+    <color name="brand_on_secondary">#FFFFFF</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#64748B</color>
+
+    <color name="rating_amber">#F59E0B</color>
+    <color name="rating_badge_bg">#1FF59E0B</color>
+    <color name="rating_badge_text">#B45309</color>
+    <color name="rating_overlay_bg">#E6FFFFFF</color>
+
+    <color name="poster_placeholder_bg">#E2E8F0</color>
+    <color name="youtube_red">#FF0033</color>
+
+    <color name="genre_red_bg">#FEE2E2</color>
+    <color name="genre_red_fg">#B91C1C</color>
+    <color name="genre_blue_bg">#E0F2FE</color>
+    <color name="genre_blue_fg">#0369A1</color>
+    <color name="genre_purple_bg">#F3E8FF</color>
+    <color name="genre_purple_fg">#6D28D9</color>
+    <color name="genre_amber_bg">#FEF3C7</color>
+    <color name="genre_amber_fg">#B45309</color>
+    <color name="genre_teal_bg">#D1FAE5</color>
+    <color name="genre_teal_fg">#047857</color>
+
+    <color name="error_red">#BA1A1A</color>
+    <color name="error_container">#FFDAD6</color>
+</resources>

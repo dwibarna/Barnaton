@@ -1,0 +1,30 @@
+<resources>
+    <style name="Base.Theme.Barnaton" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+
+        <item name="android:windowBackground">@color/surface_canvas</item>
+        <item name="android:colorBackground">@color/surface_canvas</item>
+        <item name="colorSurface">@color/surface_canvas</item>
+        <item name="colorSurfaceContainer">@color/surface_card</item>
+        <item name="colorSurfaceContainerLow">@color/surface_card</item>
+        <item name="colorSurfaceContainerHigh">@color/surface_subtle</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        <item name="colorOutlineVariant">@color/outline_border</item>
+
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorOnPrimary">@color/brand_on_primary</item>
+        <item name="colorPrimaryContainer">@color/brand_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/brand_on_primary_container</item>
+        <item name="colorSecondary">@color/brand_secondary</item>
+        <item name="colorOnSecondary">@color/brand_on_secondary</item>
+        <item name="colorError">@color/error_red</item>
+        <item name="colorErrorContainer">@color/error_container</item>
+
+        <item name="android:statusBarColor">@color/surface_canvas</item>
+        <item name="android:navigationBarColor">@color/surface_canvas</item>
+    </style>
+
+    <style name="Theme.Barnaton" parent="Base.Theme.Barnaton" />
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="title_genres">Barnaton</string>
+    <string name="search_movies_hint">Search movies…</string>
+    <string name="header_now_playing">Now Playing</string>
+    <string name="header_search_results">Search Results</string>
+    <string name="subtitle_genres">Select a genre to explore movies</string>
+    <string name="header_genres">Browse Genres</string>
+    <string name="title_reviews">Reviews - %1$s</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="action_see_all_reviews">See All Reviews</string>
+    <string name="action_open_youtube">Open in YouTube</string>
+
+    <string name="section_synopsis">Synopsis</string>
+    <string name="section_trailer">Official Trailer</string>
+    <string name="section_reviews">User Reviews</string>
+
+    <string name="label_loading">Loading…</string>
+    <string name="label_loading_more">Loading more…</string>
+    <string name="label_no_synopsis">No synopsis available for this movie.</string>
+    <string name="label_runtime_hours_mins">%1$dh %2$dm</string>
+    <string name="label_runtime_mins">%1$dm</string>
+    <string name="label_rating_format">%.1f</string>
+    <string name="label_rating_with_votes">%1$.1f (%2$d votes)</string>
+    <string name="label_review_rating">%.1f / 10</string>
+    <string name="label_youtube_not_installed">Could not open YouTube link.</string>
+
+    <string name="empty_genres_title">No Genres Found</string>
+    <string name="empty_genres_message">No movie genres are available right now.</string>
+    <string name="empty_search_title">No Results Found</string>
+    <string name="empty_search_message">Try searching with a different movie title.</string>
+    <string name="empty_movies_title">No Movies Found</string>
+    <string name="empty_movies_message">No movies found in this genre.</string>
+    <string name="empty_reviews_title">No Reviews Yet</string>
+    <string name="empty_reviews_message">No user reviews have been posted for this movie yet.</string>
+    <string name="empty_trailer_message">No official trailer is available for this movie.</string>
+
+    <string name="error_no_internet_title">No Internet Connection</string>
+    <string name="error_no_internet_message">Please check your network connection and try again.</string>
+    <string name="error_unauthorized_title">Authentication Error</string>
+    <string name="error_unauthorized_message">Invalid or missing API key. Check TMDB_API_KEY in local.properties.</string>
+    <string name="error_not_found_title">Content Not Found</string>
+    <string name="error_not_found_message">The requested movie information could not be found.</string>
+    <string name="error_server_title">Server Error (%1$d)</string>
+    <string name="error_server_message">Service is temporarily unavailable. Please try again shortly.</string>
+    <string name="error_client_title">Request Error (%1$d)</string>
+    <string name="error_client_message">Unable to complete the request. Please try again.</string>
+    <string name="error_unknown_title">Something Went Wrong</string>
+    <string name="error_unknown_message">An unexpected error occurred. Please try again.</string>
+
+    <string name="cd_movie_poster">Movie poster</string>
+    <string name="cd_movie_backdrop">Movie backdrop</string>
+    <string name="cd_reviewer_avatar">Reviewer avatar</string>
+    <string name="cd_state_icon">Status icon</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_clear_search">Clear search</string>
+</resources>
